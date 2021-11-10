@@ -1,4 +1,6 @@
 # Adwaita-icons-blue
-blue folders for adwaita. 
-this is all there is to it
+
+![blue folder](folder.png)
+
+Blue folders for adwaita. This is all there is to it.
 
